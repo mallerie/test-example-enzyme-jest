@@ -1,0 +1,23 @@
+{
+  "name": "test-file",
+  "version": "1.0.0",
+  "description": "Using Jest and Enzyme to test React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Mallerie Shirley",
+  "license": "ISC",
+  "devDependencies": {
+    "enzyme": "^2.8.2",
+    "jest": "^20.0.4"
+  },
+  "dependencies": {
+    "jest-enzyme": "^3.2.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
